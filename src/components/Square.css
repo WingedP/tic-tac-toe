@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Trade+Winds&display=swap');
+
+.squaree{
+    background-color: rgb(235, 214, 214);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    width: 150px; 
+    height: 150px; 
+    font-size: 50px;
+    font-family: 'Trade Winds', cursive;
+
+}
